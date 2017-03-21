@@ -1,0 +1,87 @@
+body
+	{font-family: 'Muli';
+	color: white;
+	text-align: center;}
+
+h1
+	{
+		text-align: center;
+	  	width: 600px;
+	  	display: block;
+	  	/*font-family: 'Lato';*/
+		color: white;
+		font-size: 60px;
+	  	margin: 0 auto;
+	  	text-transform: uppercase;
+	  	letter-spacing: 15px;
+	  	/*text-shadow: 4px 4px 4px black;*/
+	  	margin-top: 100px
+	 }
+
+p
+	{
+		text-align: center;
+	  	width: 600px;
+	  	display: block;
+		color: white;
+		font-size: 16px;
+	  	margin: 0 auto;
+	  	position: center;
+	  	padding: 30px;
+  	}
+
+nav
+ 	{
+ 		text-align: center;
+ 		color: white;
+ 		font-size: 16px;
+ 		text-decoration: none;
+ 		padding: 20px;
+ 	}
+
+button 
+ 	{
+		background-color: black;
+		width: 150px;
+		display: block;
+		padding: 5px 0;
+		text-align: center;
+		text-decoration: none;
+		border: 5px solid black;
+		text-transform: uppercase;
+		margin: 0 auto;
+		color: white;
+  	}
+
+ul li 
+ 	{
+		display: inline-block;
+	}
+
+
+ul {
+		width: 1000px;
+		margin: 0 auto;
+ 		text-align: center;
+ 		color: white;
+ 		font-size: 15px;
+	} 
+
+a
+	{
+		text-decoration: none;
+		color: white;
+	}
+
+footer
+	{
+		text-align: center;}
+	}
+
+img {border: black 2px solid;
+		width: 350px;
+		height: 175px}
+/*div
+	{
+		background-color: rgba(0, 0, 0, 0.7);
+	}*/
